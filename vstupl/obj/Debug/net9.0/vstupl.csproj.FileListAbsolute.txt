@@ -1,0 +1,14 @@
+c:\Users\Yaroslav\vstup\vstupl\bin\Debug\net9.0\vstupl.exe
+c:\Users\Yaroslav\vstup\vstupl\bin\Debug\net9.0\vstupl.deps.json
+c:\Users\Yaroslav\vstup\vstupl\bin\Debug\net9.0\vstupl.runtimeconfig.json
+c:\Users\Yaroslav\vstup\vstupl\bin\Debug\net9.0\vstupl.dll
+c:\Users\Yaroslav\vstup\vstupl\bin\Debug\net9.0\vstupl.pdb
+c:\Users\Yaroslav\vstup\vstupl\obj\Debug\net9.0\vstupl.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Yaroslav\vstup\vstupl\obj\Debug\net9.0\vstupl.AssemblyInfoInputs.cache
+c:\Users\Yaroslav\vstup\vstupl\obj\Debug\net9.0\vstupl.AssemblyInfo.cs
+c:\Users\Yaroslav\vstup\vstupl\obj\Debug\net9.0\vstupl.csproj.CoreCompileInputs.cache
+c:\Users\Yaroslav\vstup\vstupl\obj\Debug\net9.0\vstupl.dll
+c:\Users\Yaroslav\vstup\vstupl\obj\Debug\net9.0\refint\vstupl.dll
+c:\Users\Yaroslav\vstup\vstupl\obj\Debug\net9.0\vstupl.pdb
+c:\Users\Yaroslav\vstup\vstupl\obj\Debug\net9.0\vstupl.genruntimeconfig.cache
+c:\Users\Yaroslav\vstup\vstupl\obj\Debug\net9.0\ref\vstupl.dll
